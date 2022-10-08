@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/*=======font-family: 'Mukta', sans-serif;=======*/
+
+#form-login {
+    width: 70%;
+    height: 620px;
+    left: 15%;
+    background: url(images/main_bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.form {
+    width: 50%;
+    height: 250px;
+    background: rgba(236, 240, 241, .35);
+    border-radius: 10px;
+    padding: 20px;
+    position: absolute;
+    margin-bottom: 500px;
+    margin-left: 240px;
+    margin-top: 150px;
+}
+
+.user {
+    color: rgb(199, 116, 8);
+    font-family: 'Mukta', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+
+.btn-primary {
+    background: #c77b01;
+    border: none;
+    padding: 10px 80px;
+}
+
